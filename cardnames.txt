@@ -1,0 +1,156 @@
+2 of Hearts
+2
+1
+2 of Clubs
+2
+2
+2 of Diamonds
+2
+3
+2 of Spades
+2
+4
+3 of Hearts
+3
+5
+3 of Clubs
+3
+6
+3 of Diamonds
+3
+7
+3 of Spades
+3
+8
+4 of Hearts
+4
+9
+4 of Clubs
+4
+10
+4 of Diamonds
+4
+11
+4 of Spades
+4
+12
+5 of Hearts
+5
+13
+5 of Clubs
+5
+14
+5 of Diamonds
+5
+15
+5 of Spades
+5
+16
+6 of Hearts
+6
+17
+6 of Clubs
+6
+18
+6 of Diamonds
+6
+19
+6 of Spades
+6
+20
+7 of Heart
+7
+21
+7 of Clubs
+7
+22
+7 of Diamonds
+7
+23
+7 of Spades
+7
+24
+8 of Hearts
+8
+25
+8 of Clubs
+8
+26
+8 of Diamonds
+8
+27
+8 of Spades
+8
+28
+9 of Hearts
+9
+29
+9 of Clubs
+9
+30
+9 of Diamonds
+9
+31
+9 of Spades
+9
+32
+10 of Hearts
+10
+33
+10 of Clubs
+10
+34
+10 of Diamonds
+10
+35
+10 of Spades
+10
+36
+Jack of Hearts
+10
+37
+Jack of Clubs
+10
+38
+Jack of Diamonds
+10
+39
+Jack of Spades
+10
+40
+Queen of Hearts
+10
+41
+Queen of Clubs
+10
+42
+Queen of Diamonds
+10
+43
+Queen of Spades
+10
+44
+King of Hearts
+10
+45
+King of Clubs
+10
+46
+King of Diamonds
+10
+47
+King of Spades
+10
+48
+Ace of Hearts
+0
+49
+Ace of Spades
+0
+50
+Ace of Diamonds
+0
+51
+Ace of Clubs
+0
+52
